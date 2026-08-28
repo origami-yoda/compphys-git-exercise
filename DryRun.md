@@ -1,12 +1,14 @@
 1. What is your github username?
-DryRUn
+DryRun
+
 2. What operating system will you use for this class? I.e., MacOS, Linux (which flavor?), or Windows with WSL (which flavor?). 
 MacOS
+
 3. Please provide information about your computer's hardware. The method depends on your OS:
     a. MacOS: use `system_profiler SPHardwareDataType`, and copy-and-paste the results here. 
     b. Linux: try `lscpu` or `cat /proc/cpuinfo`, and copy-and-paste the results here. 
-(compphys-env) ~/PHY410/student/compphys-git-exercise % system_profiler SPHardwareDataType
-2026-08-27 17:12:45.143 system_profiler[77547:7102846] hw.cpufamily: 0x17d5b93a
+~ % system_profiler SPHardwareDataType
+2026-08-28 14:38:01.584 system_profiler[13327:7512616] hw.cpufamily: 0x17d5b93a
 Hardware:
 
     Hardware Overview:
@@ -23,3 +25,4 @@ Hardware:
       Hardware UUID: 16E92CB3-670E-514B-ACFF-C42E95DBB6A0
       Provisioning UDID: 00006040-001A40390E00801C
       Activation Lock Status: Enabled
+
